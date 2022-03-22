@@ -1,1 +1,1 @@
-# VII. [CONCLUSION](https://github.com/lexmerca/TTIPv2_ToC/)
+# VII. [Conclusion](https://github.com/lexmerca/TTIPv2_ToC/)
